@@ -190,5 +190,8 @@ plt.show()
 
 <img width="422" height="262" alt="image" src="https://github.com/user-attachments/assets/53375245-6e43-4614-88df-1becaeb85200" />
 
+## summary
+In this experiment, I performed Feature Encoding and Feature Transformation using Python in Google Colab with three different datasets. I used Pandas, NumPy, SciPy, Scikit-learn, and Category Encoders libraries for data preprocessing. I applied different encoding techniques, such as Label Encoding, Ordinal Encoding, One-Hot Encoding, Binary Encoding, and Target Encoding, to convert categorical data into numerical values. I also performed data transformation techniques, including Log Transformation, Reciprocal Transformation, Square Root Transformation, Square Transformation, Box-Cox Transformation, and Yeo-Johnson Transformation to reduce data skewness. Finally, I used Q-Q plots and Quantile Transformation to analyze and improve the data distribution. Through this experiment, I learned how to encode categorical features and transform numerical data for effective data analysis and machine learning.
+
 ## Result:
 Hence performing Feature Encoding and Transformation process is Successful.
